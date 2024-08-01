@@ -1,0 +1,59 @@
+node_modules# Silly a** node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Distribution filess
+dist
+dist.zip
+
+#idea project
+.idea
+
+# Silly a** vscode conf
+.vscode/
+
+# Notes
+notes.md
+
+# Queries
+queries.sql
+# environments/dev.environment.ts
+
+# Images and files
+**/src/uploads/**/*.*
+**/src/generated/**/*.*
+
+**/src/logs/**/*.txt
+
+# environments/*.environment.ts
+
+docs/old_spec.*
+
+package-lock.json
+
+requests.rest
+
+test.json
+test.txt
+log.md
+
+# public/
+
+# Tests
+
+coverage/
+.vscode/
+
+# Py
+
+__pycache__
+
+.envaux
+config/
+
+dist.zip
+src/utils/sql/temp.sql
+frontend-dist.zip
+temp.sql
